@@ -1,7 +1,7 @@
 # EC_Python101
 Repository with Google Colab notebooks for a basic, introduction to Python.
 
-#Welcome!
+# Welcome!
 The notebooks in this repository use Google Colabratory notebooks (like Jupyter Notebooks) that run Python natively in your browser, no installation necessary. The outline for this workshop is as follows:
 1) Python IDEs: Installation, Environments, & Packages
   * How do you use Python on your machine
