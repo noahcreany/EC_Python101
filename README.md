@@ -13,10 +13,10 @@ The notebooks in this repository use Google Colabratory notebooks (like Jupyter 
 3) Data Wrangling & Carpentry: Pandas 
   * [Creating, Reading & Writing (Kaggle)](https://www.kaggle.com/code/residentmario/creating-reading-and-writing)
   * [Indexing, Selecting & Assigning (Kaggle)](https://www.kaggle.com/code/residentmario/indexing-selecting-assigning)
-  * [Summary Functions & Maps (Kaggle)] (https://www.kaggle.com/code/residentmario/summary-functions-and-maps)
-  * [Grouping & Sorting (Kaggle)] (https://www.kaggle.com/code/residentmario/grouping-and-sorting)
-  * [Data Types & Missing Values (Kaggle)] (https://www.kaggle.com/code/residentmario/data-types-and-missing-values)
-  * [Renaming and Combining (Kaggle)] (https://www.kaggle.com/code/residentmario/renaming-and-combining)
+  * [Summary Functions & Maps (Kaggle)](https://www.kaggle.com/code/residentmario/summary-functions-and-maps)
+  * [Grouping & Sorting (Kaggle)](https://www.kaggle.com/code/residentmario/grouping-and-sorting)
+  * [Data Types & Missing Values (Kaggle)](https://www.kaggle.com/code/residentmario/data-types-and-missing-values)
+  * [Renaming and Combining (Kaggle)](https://www.kaggle.com/code/residentmario/renaming-and-combining)
 4) Some Statistical Packages in Python:
   * Overview of statistical tools available
   * Spring Run-Off Modelling Competition in Python
