@@ -19,4 +19,4 @@ The notebooks in this repository use Google Colabratory notebooks (like Jupyter 
   * [Renaming and Combining (Kaggle)](https://www.kaggle.com/code/residentmario/renaming-and-combining)
 4) Some Statistical Packages in Python:
   * Overview of statistical tools available
-  * Spring Run-Off Modelling Competition in Python
+  * Time Permitting: Spring Run-Off Modelling Competition in Python
