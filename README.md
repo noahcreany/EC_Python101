@@ -11,6 +11,7 @@ The notebooks in this repository use Google Colabratory notebooks (like Jupyter 
   * Basic datatypes & operations in Python
   * "Base-R" equivalent in Python
 3) Data Wrangling & Carpentry: Pandas 
+  * [R vs. Python - A One-on-One Comparison](https://shiring.github.io/r_vs_python/2017/01/22/R_vs_Py_post)
   * [Creating, Reading & Writing (Kaggle)](https://www.kaggle.com/code/residentmario/creating-reading-and-writing)
   * [Indexing, Selecting & Assigning (Kaggle)](https://www.kaggle.com/code/residentmario/indexing-selecting-assigning)
   * [Summary Functions & Maps (Kaggle)](https://www.kaggle.com/code/residentmario/summary-functions-and-maps)
