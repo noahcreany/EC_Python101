@@ -1,4 +1,4 @@
-# EC_Python101
+# Ecology Center Workshops: Python 101
 Repository with Google Colab notebooks for a basic, introduction to Python.
 
 # Welcome!
