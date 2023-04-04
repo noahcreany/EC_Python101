@@ -1,5 +1,5 @@
 # Ecology Center Workshops: Python 101
-Repository with Google Colab notebooks for a basic, introduction to Python.
+Repository with Google Colab notebooks for a basic introduction to Python.
 
 # Welcome!
 The notebooks in this repository use Google Colabratory notebooks (like Jupyter Notebooks) that run Python natively in your browser, no installation necessary. The outline for this workshop is as follows:
