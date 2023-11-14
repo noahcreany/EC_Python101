@@ -23,7 +23,7 @@ The notebooks in this repository use Google Colabratory notebooks (like Jupyter 
 | Category   | Package          | Description                                                                                      | Notes                               |
 |------------|------------------|--------------------------------------------------------------------------------------------------|-------------------------------------|
 | Figures    | Matplotlib       | Base environment for figure, animations, and image plotting in python                            |                                     |
-|            | Seaborn          | Scientific Figures (see [https://python-graph-gallery.com/](python-graph-gallery.com)            |                                     |
+|            | Seaborn          | Scientific Figures (see [https://python-graph-gallery.com/](python-graph-gallery.com))           |                                     |
 |            | Plotly           | Interactive figures and visualizations, web-based                                                | Documentation is somewhat cryptic   |
 | Statistics | Scikit-Learn     | Machine learning (i.e., classification,regression, clustering, model selection) tools in Python. | Very fast, excellent documentation  |
 |            | Sci-Py           | Vast package of math, statistics, probability distributions, etc.                                |                                     |
