@@ -19,6 +19,7 @@ The notebooks in this repository use Google Colabratory notebooks (like Jupyter 
   * [Data Types & Missing Values (Kaggle)](https://www.kaggle.com/code/residentmario/data-types-and-missing-values)
   * [Renaming and Combining (Kaggle)](https://www.kaggle.com/code/residentmario/renaming-and-combining)
 4) Some Statistical Packages in Python:
+
 | Category   | Package          | Description                                                                                      | Notes                               |
 |------------|------------------|--------------------------------------------------------------------------------------------------|-------------------------------------|
 | Figures    | Matplotlib       | Base environment for figure, animations, and image plotting in python                            |                                     |
