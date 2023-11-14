@@ -19,5 +19,14 @@ The notebooks in this repository use Google Colabratory notebooks (like Jupyter 
   * [Data Types & Missing Values (Kaggle)](https://www.kaggle.com/code/residentmario/data-types-and-missing-values)
   * [Renaming and Combining (Kaggle)](https://www.kaggle.com/code/residentmario/renaming-and-combining)
 4) Some Statistical Packages in Python:
-  * Overview of statistical tools available
-  * Time Permitting: Spring Run-Off Modelling Competition in Python
+| Category   | Package          | Description                                                                                      | Notes                               |
+|------------|------------------|--------------------------------------------------------------------------------------------------|-------------------------------------|
+| Figures    | Matplotlib       | Base environment for figure, animations, and image plotting in python                            |                                     |
+|            | Seaborn          | Scientific Figures (see [https://python-graph-gallery.com/](https://python-graph-gallery.com/)   |                                     |
+|            | Plotly           | Interactive figures and visualizations, web-based                                                | Documentation is somewhat cryptic   |
+| Statistics | Scikit-Learn     | Machine learning (i.e., classification,regression, clustering, model selection) tools in Python. | Very fast, excellent documentation  |
+|            | Sci-Py           | Vast package of math, statistics, probability distributions, etc.                                |                                     |
+|            | Statsmodels      | Like its companion in R - friendly and easy to use, formula syntax modelling                     |                                     |
+|            | TensorFlow       | Google machine-learning package, has just about everything                                       | Documentation is rough              |
+|            | Dask,Xarray      | Great packages that allow you to use data that is bigger than your machine (local cacheing)      | Excellent tools, good to know about |
+|            | XgBoost,CatBoost | Fast & accurate gradient descent boosted regression tree packages                                |                                     |
