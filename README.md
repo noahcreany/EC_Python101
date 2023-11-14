@@ -30,4 +30,4 @@ The notebooks in this repository use Google Colabratory notebooks (like Jupyter 
 |            | Statsmodels      | Like its companion in R - friendly and easy to use, formula syntax modelling                     |                                     |
 |            | TensorFlow       | Google machine-learning package, has just about everything                                       | Documentation is rough              |
 |            | Dask,Xarray      | Great packages that allow you to use data that is bigger than your machine (local cacheing)      | Excellent tools, good to know about |
-|            | XgBoost,CatBoost | Fast & accurate gradient descent boosted regression tree packages                                |                                     |
+|            | XgBoost/CatBoost | Fast & accurate gradient descent boosted regression tree packages                                |                                     |
